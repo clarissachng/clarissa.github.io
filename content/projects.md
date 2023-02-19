@@ -1,18 +1,17 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-lastmod: {{ .Date }}
+title: "projects"
+date: mar 2023
 author: ["clarissa"]
-categories: 
-- categorie 1
-- categorie 2
 tags: 
-- tag 1
-- tag 2
-description: ""
+- project
+- c
+- html
+- python
+- git
+description: "details on the projects i've done"
 weight: # 1 means pin the article, sort articles according to this number
-slug: ""
-draft: false # draft or not
+slug: "/projects"
+draft: true # draft or not
 comments: true
 showToc: true # show contents
 TocOpen: true # open contents automantically
