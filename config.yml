@@ -82,7 +82,7 @@ params:
 
     defaultTheme: light # defaultTheme: light or dark
     disableThemeToggle: false
-    DateFormat: "2006-01-02"
+    DateFormat: "01-02-2006"
     ShowShareButtons: true
     ShowReadingTime: true
     # disableSpecialistPost: true
