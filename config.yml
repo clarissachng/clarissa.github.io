@@ -31,7 +31,7 @@ defaultContentLanguageInSubdir: true
 languages:
     en:
         languageName: "English"
-        contentDir: content/English
+        contentDir: content
         weight: 1
         profileMode:
             enabled: true
