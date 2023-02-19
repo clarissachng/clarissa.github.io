@@ -24,3 +24,9 @@ cover:
     alt: ""
     relative: false
 ---
+
+## Undergrad Projects/ Courseworks
+
+## Foundation Projects/ Courseworks
+<h3> ATM Machine </h3>
+<h3> Hangman Game </h3>

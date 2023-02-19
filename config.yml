@@ -9,7 +9,7 @@ enableRobotsTXT: true
 
 hasCJKLanguage: true
 
-buildDrafts: false
+buildDrafts: true
 buildFuture: false
 buildExpired: false
 
@@ -37,7 +37,6 @@ languages:
             enabled: true
             title: Clarissa Ch'ng
             subtitle: "hi, i'm clarissa ⋆｡°✩"
-            # imageUrl: "Avatar.png"
             imageUrl: "own_picture.png"
             imageTitle: Selfie
             imageWidth: 150
